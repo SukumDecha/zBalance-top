@@ -1,0 +1,20 @@
+BALANCE_TOP_MESSAGE:
+  - '&7&m---------------'
+  - '&5#1 &e{0} has &6{1}'
+  - '&d#2 {0} has &6{1}'
+  - '&e#3 {0} has &6{1}'
+  - '&7#4 {0} has &f{1}'
+  - '&7#5 {0} has &f{1}'
+  - '&7#6 {0} has &f{1}'
+  - '&7#7 {0} has &f{1}'
+  - '&7#8 {0} has &f{1}'
+  - '&7#9 {0} has &f{1}'
+  - '&7#10 {0} has &f{1}'
+  - '&7&m---------------'
+BALANCE_FORMAT:
+  PLAYER_NOT_FOUND: "--.--"
+  BALANCE_NOT_FOUND: "--.--"
+NO_DATA_TO_DISPLAY: "This server has no balance data."
+
+
+

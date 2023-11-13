@@ -1,0 +1,23 @@
+name: zEconomy
+version: '1.0dev'
+description: 'Balance top plugin'
+main: me.louderdev.economy.zEconomy
+author: Sukum_Decha
+
+softdepend:
+  - Economy
+
+load: STARTUP
+
+commands:
+  balancetop:
+    description: Check Top Balance
+    usage: /baltop
+    aliases:
+      - baltop
+  zbalreload:
+    description: reload the zEconomy plugin
+    usage: /zbalreload
+    aliases:
+      - zeconomyreload
+      - zbalreload
